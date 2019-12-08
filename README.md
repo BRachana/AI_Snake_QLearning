@@ -1,15 +1,13 @@
 # AI Snake BFS & QLearning 🐍
 
-AI for snake game.
-
 Written in Python 3.6
 
 Base of game is taken from [Sanchit Gangwar](https://gist.github.com/sanchitgangwar/2158089)
 
 ## Game Play
-![][snake]
+![](snake.gif)
 
-### Requirements: 
+## Requirements: 
 Pygame, Numpy
 
 
@@ -36,5 +34,5 @@ Test results (averaged over 10000 episodes):
 
 | Solver | Average Length | Max Length |
 | :----: | :------------: | :-----------: |
-|[BFS]|89.93|107|
-|[Q Learning]|27.50|58|
+|BFS|89.93|107|
+|Q Learning|27.50|58|
