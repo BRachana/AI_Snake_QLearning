@@ -5,7 +5,7 @@ Written in Python 3.6
 Base of game is taken from [Sanchit Gangwar](https://gist.github.com/sanchitgangwar/2158089)
 
 ## Game Play
-![][BFS-snake.gif]
+![](snake.gif)
 
 ## Requirements: 
 Pygame, Numpy
