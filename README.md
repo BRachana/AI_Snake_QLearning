@@ -34,5 +34,5 @@ Test results (averaged over 10000 episodes):
 
 | Solver | Average Length | Max Length |
 | :----: | :------------: | :-----------: |
-|BFS|89.93|107|
+|BFS|81.93|89|
 |Q Learning|27.50|58|
